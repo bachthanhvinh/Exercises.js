@@ -1,0 +1,39 @@
+.add-cart {
+  padding: 10px 60px;
+  background-color: rgb(255, 226, 80);
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 50px;
+  border: none;
+  margin-right: 30px;
+  cursor: pointer;
+}
+.requerst-now {
+  padding: 13px 30px;
+  background-color: black;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  margin-right: 30px;
+  cursor: pointer;
+}
+.sechedule-for-later {
+  padding: 13px 40px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  background-color: rgb(240, 240, 240);
+  cursor: pointer;
+}
+.gaming {
+  background-color: rgb(239, 235, 235);
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
+.is-toggled {
+  background-color: black;
+  color: white;
+}
