@@ -1,0 +1,81 @@
+body {
+  font-size: 18px;
+  font-family: Arial;
+}
+
+.back-10dom {
+  display: inline-block;
+  padding: 8px 20px;
+  border-radius: 5px;
+  background: white;
+}
+.subscribe-button {
+  padding: 12px 18px;
+  border: none;
+  border-radius: 50px;
+  background-color: black;
+  color: white;
+  /* font-size: 1rem; */
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+.is-subscribe {
+  background-color: rgb(240, 240, 240);
+  color: black;
+}
+.cost-input {
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+.clt-button {
+  border: none;
+  border-radius: 5px;
+  padding: 12px;
+  background-color: green;
+  color: white;
+  cursor: pointer;
+  /* opacity: 0.8; */
+}
+/* ==========rock-paper-scissors ==========*/
+
+.bgrc {
+  background: rgb(25, 25, 25);
+  color: white;
+  font-family: Arial;
+}
+.title {
+  font-weight: bold;
+  font-size: 2rem;
+}
+img {
+  background-color: transparent;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+
+.btn {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  background-color: transparent;
+  border: 3px solid white;
+  margin-right: 30px;
+  cursor: pointer;
+}
+
+.btn-reset {
+  padding: 10px 50px;
+  border-radius: 5px;
+  border: none;
+}
+.result {
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+.moves {
+  margin-bottom: 40px;
+}
