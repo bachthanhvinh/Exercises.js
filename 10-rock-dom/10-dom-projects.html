@@ -61,10 +61,10 @@
           return;
         } else if (cost < 4000) {
           cost = cost + 1000;
-          document.querySelector(".js-total-cost").innerHTML = `Total: $${
-            cost / 100
-          }`;
         }
+        document.querySelector(".js-total-cost").innerHTML = `Total: $${
+          cost / 100
+        }`;
       }
 
       function subscribe() {
